@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://twd412412-ux.github.io/jimsstore-apps/sitemap.xml
