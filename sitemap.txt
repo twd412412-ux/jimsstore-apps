@@ -3,3 +3,14 @@ https://twd412412-ux.github.io/jimsstore-apps/fullscreen/
 https://twd412412-ux.github.io/jimsstore-apps/ourscore/
 https://twd412412-ux.github.io/jimsstore-apps/shiftharu/
 https://twd412412-ux.github.io/jimsstore-apps/shinbible/
+https://twd412412-ux.github.io/jimsstore-apps/guides/three-finger-pen/
+https://twd412412-ux.github.io/jimsstore-apps/en/guides/three-finger-pen/
+https://twd412412-ux.github.io/jimsstore-apps/guides/two-page-view/
+https://twd412412-ux.github.io/jimsstore-apps/en/guides/two-page-view/
+https://twd412412-ux.github.io/jimsstore-apps/guides/full-cover-screen/
+https://twd412412-ux.github.io/jimsstore-apps/en/guides/full-cover-screen/
+https://twd412412-ux.github.io/jimsstore-apps/guides/keep-your-place/
+https://twd412412-ux.github.io/jimsstore-apps/en/guides/keep-your-place/
+https://twd412412-ux.github.io/jimsstore-apps/guides/monthly-shift-pattern/
+https://twd412412-ux.github.io/jimsstore-apps/guides/swap-shifts/
+https://twd412412-ux.github.io/jimsstore-apps/en/
